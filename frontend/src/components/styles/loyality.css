@@ -1,0 +1,9 @@
+.btn:hover{
+    color: white !important;
+    cursor: pointer;
+}
+
+.card{
+    width: 350px;
+}
+

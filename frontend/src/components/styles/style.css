@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box !important;
+}
+
+.nav-link:hover{
+    background-color: #0d6efd;
+    color: white;
+}
+
+.nav-pills .nav-link{
+    border-radius: 0;
+}

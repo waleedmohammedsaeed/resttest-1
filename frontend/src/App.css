@@ -1,0 +1,16 @@
+body{
+  box-sizing: border-box;
+  direction: rtl;
+}
+.navs{
+  height: 80px;
+}
+.areacontent{
+  min-height: calc(100vh - 80px);
+  background-color: white;
+}
+
+input:focus{
+  box-shadow: 0 0 5px rgba(128, 128, 128, 0.4);
+  border: 1px solid lightblue;
+}
